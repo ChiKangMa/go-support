@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/33tech-co/m-lottery/support/debug"
+	"github.com/ChiKangMa/go-support/debug"
 )
 
 func init() {
